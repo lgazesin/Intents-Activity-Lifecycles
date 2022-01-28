@@ -10,9 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Lab3">
         <activity
-            android:name=".Selam"
-            android:exported="false" />
-        <activity
             android:name=".SecondActivity"
             android:exported="true" />
         <activity
